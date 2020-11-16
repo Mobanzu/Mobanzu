@@ -24,10 +24,16 @@ To-Do List
 </details>
 
 <details>
-<summary>Moody ♫</summary>
+<summary>Moody</summary>
   
 <!-- play_music starts -->
-[<img src="https://img.shields.io/badge/%E2%96%BA-YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-yellow">](https://od.lk/s/OThfMjYyNTMyMjdf/Yoru%20ni%20kakeru)
+[<img src="https://img.shields.io/badge/%E2%96%BA-YOASOBI%20--%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-orange">](https://od.lk/s/OThfMjYyNTMyMjdf/Yoru%20ni%20kakeru)
+<br>
+[<img src="https://img.shields.io/badge/%E2%96%BA-TK%20--%20unravel-orange">](https://od.lk/s/OThfMjYyNTMyMzhf/unravel)
+<br>
+[<img src="https://img.shields.io/badge/%E2%96%BA-DAOKOx%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20--%20%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB-orange">](https://od.lk/s/OThfMjYyNTMyNDJf/Uchiage%20Hanabi)
+<br>
+[<img src="https://img.shields.io/badge/%E2%96%BA-RADWIMPS%20feat.%E4%B8%89%E6%B5%A6%E9%80%8F%E5%AD%90%20--%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97-orange">](https://od.lk/s/OThfMjYyNTMyNDNf/Grand%20Escape%20Feat.%20Toko%20Miura)
 <!-- play_music ends -->
 
 </details>
@@ -36,7 +42,7 @@ ___
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
 Feel free to contact me
-<br><br>
+<br>
 [<img src="https://img.shields.io/badge/Instagram-%40mo.banzu-orange">](https://instagram.com/mo.banzu)
 [<img src="https://img.shields.io/badge/LINE-luscious.net-brightgreen">](https://line.me/ti/p/~luscious.net)
 [<img src="https://img.shields.io/badge/Email-mbandu.ilik%40gmail.com-lightgrey">](mailto:mbandu.ilik@gmail.com)
