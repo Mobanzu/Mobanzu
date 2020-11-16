@@ -2,6 +2,7 @@
 
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=tokyonight)](https://github.com/hellterhead)
 
+___
 Actually I prefer something related to design, forget it!
 
 To-Do List
@@ -22,6 +23,7 @@ To-Do List
 
 </details>
 
+___
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
 Feel free to contact me
