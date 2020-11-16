@@ -23,6 +23,15 @@ To-Do List
 
 </details>
 
+<details>
+<summary>Moody ♫</summary>
+  
+<!-- play_music starts -->
+[<img src="https://img.shields.io/badge/%E2%96%BA-YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-yellow">](https://od.lk/s/OThfMjYyNTMyMjdf/Yoru%20ni%20kakeru)
+<!-- play_music ends -->
+
+</details>
+
 ___
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
