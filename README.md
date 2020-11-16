@@ -9,6 +9,9 @@ Actually I prefer something related to design, forget it!
   
 <!-- mbnd_art starts -->
 * [Take a look](https://www.instagram.com/p/BuFV-eBgg91/?utm_source=ig_web_copy_link) my boring activity
+* I like [cats](https://www.instagram.com/p/B1dz-5rBwT0/?utm_source=ig_web_copy_link) and game consoles
+* I believe that [aliens](https://www.instagram.com/p/BwiX5bml51Q/?utm_source=ig_web_copy_link) are hiding watching us
+* And this is [something](https://www.instagram.com/p/Bs7thCVFt_W/?utm_source=ig_web_copy_link) that doesn't matter
 <!-- mbnd_art ends -->
 
 </details>
