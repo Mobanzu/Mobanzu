@@ -42,7 +42,4 @@ ___
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
 Feel free to contact me
-<br>
-[<img src="https://img.shields.io/badge/Instagram-%40mo.banzu-orange">](https://instagram.com/mo.banzu)
-[<img src="https://img.shields.io/badge/LINE-luscious.net-brightgreen">](https://line.me/ti/p/~luscious.net)
-[<img src="https://img.shields.io/badge/Email-mbandu.ilik%40gmail.com-lightgrey">](mailto:mbandu.ilik@gmail.com)
+[Instagram](https://instagram.com/mo.banzu) | [LINE](https://line.me/ti/p/~luscious.net) | [Email](mailto:mbandu.ilik@gmail.com)
