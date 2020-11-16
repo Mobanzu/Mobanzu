@@ -4,6 +4,12 @@
 
 Actually I prefer something related to design, forget it!
 
+To-Do List
+- <s>Nothing</s>
+- <s>Nothing</s>
+- <s>Nothing</s>
+- Nothing
+
 <details>
 <summary>Scattered Messy Pictures</summary>
   
@@ -13,18 +19,6 @@ Actually I prefer something related to design, forget it!
 * I believe that [aliens](https://www.instagram.com/p/BwiX5bml51Q/?utm_source=ig_web_copy_link) are hiding watching us
 * And this is [something](https://www.instagram.com/p/Bs7thCVFt_W/?utm_source=ig_web_copy_link) that doesn't matter
 <!-- mbnd_art ends -->
-
-</details>
-
-<details>
-<summary>To-Do List</summary>
-  
-<!-- todo_list starts -->
-* <s>Nothing!</s>
-* <s>Nothing!</s>
-* <s>Nothing!</s>
-* Nothing!
-<!-- todo_list ends -->
 
 </details>
 
