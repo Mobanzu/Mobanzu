@@ -6,10 +6,10 @@ ___
 Actually I prefer something related to design, forget it!
 
 To-Do List
-- <s>Nothing</s>
-- <s>Nothing</s>
-- <s>Nothing</s>
-- Nothing
+- [x] ~~Nothing~~
+- [x] ~~Nothing~~
+- [x] ~~Nothing~~
+- [ ] Nothing
 
 <details>
 <summary>Scattered Messy Pictures</summary>
