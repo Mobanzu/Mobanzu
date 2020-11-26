@@ -1,4 +1,4 @@
-### Hi bro! Just call me [Dre](https://github.com/hellterhead) ˘ᆺ˘
+### Hi bro, Just call me [Dre!](https://github.com/hellterhead) ˘ᆺ˘
 
 [![黒猫の死](https://i.ibb.co/X4S2w9j/Black-Cat-Death-HLTH.gif)](https://github.com/hellterhead)
 
@@ -43,6 +43,6 @@ ___
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
-Feel free to contact me
-<br>
-[Instagram](https://instagram.com/mo.banzu) | [LINE](https://line.me/ti/p/~luscious.net) | [Email](mailto:mbandu.ilik@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-luscious.net-00ff44.svg)](https://line.me/ti/p/~luscious.net)
+[![Instagram](https://img.shields.io/badge/Instagram-mo.banzu-d66bff.svg)](https://instagram.com/mo.banzu)
+[![Email](https://img.shields.io/badge/Email-mbandu.ilik@gmail.com-ff0660.svg)](mailto:mbandu.ilik@gmail.com)
