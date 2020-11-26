@@ -1,6 +1,6 @@
-### Hi bro! Just call me [Dre](https://github.com/hellterhead)
+### Hi bro! Just call me [Dre](https://github.com/hellterhead) ˘ᆺ˘
 
-[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=tokyonight)](https://github.com/hellterhead)
+[![黒猫の死](https://i.ibb.co/X4S2w9j/Black-Cat-Death-HLTH.gif)](https://github.com/hellterhead)
 
 ___
 Actually I prefer something related to design, forget it!
@@ -39,6 +39,8 @@ To-Do List
 </details>
 
 ___
+[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=tokyonight)](https://github.com/hellterhead)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=tokyonight)](https://github.com/hellterhead)
 
 Feel free to contact me
