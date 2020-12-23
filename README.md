@@ -40,7 +40,6 @@ To-Do List
 
 ___
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite)](https://github.com/hellterhead)
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
 [![LINE](https://img.shields.io/badge/LINE-luscious.net-00ff44.svg)](https://line.me/ti/p/~luscious.net)
