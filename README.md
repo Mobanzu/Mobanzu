@@ -9,7 +9,7 @@ To-Do List
 - [ ] Nothing
 
 <details>
-<summary>Scattered Messy Pictures</summary>
+<summary>:crayon: Scattered Messy Pictures</summary>
   
 <!-- mbnd_art starts -->
 * [Take a look](https://www.instagram.com/p/BuFV-eBgg91/?utm_source=ig_web_copy_link) my boring activity
@@ -21,7 +21,7 @@ To-Do List
 </details>
 
 <details>
-<summary>Moody</summary>
+<summary>:headphones: Moody</summary>
   
 <!-- file_music starts -->
 <br>[<img src="https://img.shields.io/badge/YOASOBI%20--%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-000000.svg?logo=apple-music">](https://od.lk/s/OThfMjYyNTMyMjdf/YOASOBI%20-%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
