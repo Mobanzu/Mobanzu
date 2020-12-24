@@ -1,4 +1,7 @@
-[![hellterhead](https://i.ibb.co/WvSnwGd/typewriter-hlth.gif)](https://github.com/hellterhead)
+<div align="center">
+<img src="https://github.com/hellterhead/hellterhead/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter" />
+</div>
+
 ____
 Actually I prefer something related to design, forget it!
 
