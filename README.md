@@ -9,7 +9,7 @@ To-Do List
 - [ ] Nothing
 
 <details>
-<summary>:crayon: Scattered Messy Pictures</summary>
+<summary>:crayon: Scattered Messy Pictures</summary><br>
   
 <!-- mbnd_art starts -->
 * [Take a look](https://www.instagram.com/p/BuFV-eBgg91/?utm_source=ig_web_copy_link) my boring activity
