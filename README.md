@@ -1,7 +1,6 @@
 <img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" alt="HELLTERHEAD Typewriter">
 <img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" atl="Mo-banzu Activity">
 
-### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Little More About Me
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -25,7 +24,7 @@ const anmol = {
 }
 ```
 ____
-Actually I prefer something related to design, forget it!
+### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Litle More About Me
 
 <details>
 <summary>Scattered Messy Pictures</summary><br>
