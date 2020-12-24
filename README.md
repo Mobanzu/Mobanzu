@@ -2,7 +2,7 @@
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter"/>
 </div>
 
-### <img src="https://github.com/hellterhead/hellterhead/blob/main/astrocat.gif" width="50" alt="Astro Cat"> A Little More About Me
+### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Little More About Me
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -13,6 +13,7 @@ const anmol = {
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
+        },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
