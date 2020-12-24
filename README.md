@@ -6,7 +6,7 @@ const dre = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "HTML", "CSS", "PHP"],
     askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
-    currentFocus: "Developing LINE Messenger bot using python and JavaScript",
+    currentFocus: "Developing LINE Messenger bot using Python and JavaScript",
     funFact: "In a room full of ice cream, I'd still stare at you"
 }
 ```
