@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter"/>
-</div>
+<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" alt="HELLTERHEAD Typewriter">
+<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" atl="Mo-banzu Activity">
 
 ### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Little More About Me
 ```javascript
