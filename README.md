@@ -28,12 +28,6 @@ const anmol = {
 ____
 Actually I prefer something related to design, forget it!
 
-To-Do List
-- [x] ~~Nothing~~
-- [x] ~~Nothing~~
-- [x] ~~Nothing~~
-- [ ] Nothing
-
 <details>
 <summary>Scattered Messy Pictures</summary><br>
   
