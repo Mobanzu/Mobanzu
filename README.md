@@ -2,25 +2,12 @@
 <img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" width="360" atl="Mo-banzu Activity">
 
 ```javascript
-const anmol = {
+const dre = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "php"],
+    code: ["Javascript", "Python", "Java", "HTML", "CSS", "PHP"],
     askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        databases: ["MongoDB", "MySQL", "sqlite"]
-    },
-    architecture: ["Micro service", "Progressive web applications"],
-    currentFocus: "Learn to program using Python and JavaScript",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Developing LINE Messenger bot using python and JavaScript",
+    funFact: "In a room full of ice cream, I'd still stare at you"
 }
 ```
 ____
