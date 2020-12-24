@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/hellterhead/hellterhead/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter" />
+<img src="https://github.com/hellterhead/hellterhead/blob/master/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter" />
 </div>
 
 ____
