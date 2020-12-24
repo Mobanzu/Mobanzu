@@ -1,5 +1,5 @@
-<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" width="360" alt="HELLTERHEAD Typewriter">
-<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" width="360" atl="Mo-banzu Activity">
+<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" alt="HELLTERHEAD Typewriter">
+<img align="center" src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" atl="Mo-banzu Activity">
 
 ```javascript
 const dre = {
