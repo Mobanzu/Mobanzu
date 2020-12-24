@@ -1,4 +1,4 @@
-[![hellterhead](https://i.ibb.co/xzw94nF/New-Element-BAC353-D.gif)](https://github.com/hellterhead)
+[![hellterhead](https://i.ibb.co/WvSnwGd/typewriter-hlth.gif)](https://github.com/hellterhead)
 ___
 Actually I prefer something related to design, forget it!
 
