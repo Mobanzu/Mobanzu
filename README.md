@@ -1,7 +1,4 @@
-### Hi bro, Just call me [Dre!](https://github.com/hellterhead) ˘ᆺ˘
-
-[![黒猫の死](https://i.ibb.co/X4S2w9j/Black-Cat-Death-HLTH.gif)](https://github.com/hellterhead)
-
+[![hellterhead](https://i.ibb.co/xzw94nF/New-Element-BAC353-D.gif)](https://github.com/hellterhead)
 ___
 Actually I prefer something related to design, forget it!
 
