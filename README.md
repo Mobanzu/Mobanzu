@@ -1,7 +1,29 @@
 <div align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter" />
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter-hlth.gif" alt="HELLTERHEAD Typewriter"/>
 </div>
 
+### <img src="https://github.com/hellterhead/hellterhead/blob/main/astrocat.gif" width="50" alt="Astro Cat"> A Little More About Me
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "php"],
+    askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        databases: ["MongoDB", "MySQL", "sqlite"]
+    },
+    architecture: ["Micro service", "Progressive web applications"],
+    currentFocus: "Learn to program using Python and JavaScript",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
 ____
 Actually I prefer something related to design, forget it!
 
@@ -12,7 +34,7 @@ To-Do List
 - [ ] Nothing
 
 <details>
-<summary>:crayon: Scattered Messy Pictures</summary><br>
+<summary>Scattered Messy Pictures</summary><br>
   
 <!-- mbnd_art starts -->
 * [Take a look](https://www.instagram.com/p/BuFV-eBgg91/?utm_source=ig_web_copy_link) my boring activity
@@ -24,7 +46,7 @@ To-Do List
 </details>
 
 <details>
-<summary>:headphones: Moody</summary>
+<summary>Moody</summary>
   
 <!-- file_music starts -->
 <br>[<img src="https://img.shields.io/badge/YOASOBI%20--%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-000000.svg?logo=apple-music">](https://od.lk/s/OThfMjYyNTMyMjdf/YOASOBI%20-%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
