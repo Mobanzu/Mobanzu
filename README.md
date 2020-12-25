@@ -39,7 +39,7 @@ ____
 
 ____
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite)](https://github.com/hellterhead)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
 [![LINE](https://img.shields.io/badge/LINE-00b300.svg)](https://line.me/ti/p/~luscious.net)
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b.svg)](https://instagram.com/mo.banzu)
