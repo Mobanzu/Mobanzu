@@ -42,5 +42,7 @@ ____
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~luscious.net)
-[![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/mo.banzu)
-[![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:mbandu.ilik@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b.svg)](https://instagram.com/mo.banzu)
+[![Twitter](https://img.shields.io/badge/Twitter-55acee.svg)](https://twitter.com/mo_banzu)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000.svg)](https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng)
+[![Email](https://img.shields.io/badge/Email-ea4335.svg)](mailto:mbandu.ilik@gmail.com)
