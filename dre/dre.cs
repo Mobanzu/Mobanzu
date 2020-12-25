@@ -1,4 +1,4 @@
-using Eeeeeee = System.Console;
+using Dreeeeeee = System.Console;
 using dreeee = System.Boolean;
 
 namespace dre
@@ -11,7 +11,7 @@ namespace dre
         {
             while (dre)
             {
-                Eeeeeee.Write('dre');
+                Dreeeeeee.Write('dre');
             }
         }
     }
