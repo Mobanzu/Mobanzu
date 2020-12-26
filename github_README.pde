@@ -3,7 +3,7 @@ PFont font;
 
 void setup() {
   size(1920, 1080);
-  font = createFont("DarkCourier.vlw", 48);
+  font = createFont("DarkCourier-48.vlw", 48);
   textFont(font);
   frameRate(30);
   textAlign(CENTER);
