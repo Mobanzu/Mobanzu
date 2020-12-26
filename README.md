@@ -4,10 +4,10 @@
 </p>
 <p align="center">
 <a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00b300.svg?&style=for-the-badge" height=22></a>
-<a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-dd2a7b.svg?&style=for-the-badge" height=22></a>
-<a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-55acee.svg?&style=for-the-badge" height=22></a>
-<a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge" height=22></a>
-<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335.svg?&style=for-the-badge" height=22></a>
+<a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=22></a>
+<a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-55acee.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" height=22></a>
+<a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff" height=22></a>
+<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=22></a>
 </p>
 
 ____
