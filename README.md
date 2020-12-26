@@ -3,11 +3,11 @@
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" alt="Mo-banzu Activity">
 </p>
 <p align="center">
-<a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00b300.svg?&style=for-the-badge" height=24></a>
-<a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-dd2a7b.svg?&style=for-the-badge" height=24></a>
-<a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-55acee.svg?&style=for-the-badge" height=24></a>
-<a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge" height=24></a>
-<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335.svg?&style=for-the-badge" height=24></a>
+<a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00b300.svg?&style=for-the-badge" height=22></a>
+<a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-dd2a7b.svg?&style=for-the-badge" height=22></a>
+<a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-55acee.svg?&style=for-the-badge" height=22></a>
+<a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge" height=22></a>
+<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335.svg?&style=for-the-badge" height=22></a>
 </p>
 
 ```javascript
@@ -40,5 +40,5 @@ ____
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=flat-square&color=black&logo=github&logoColor=00ccff">
+<img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=flat-square&color=black&logo=github&logoColor=00ccff" height=26>
 </p>
