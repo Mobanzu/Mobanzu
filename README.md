@@ -40,5 +40,5 @@ ____
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=flat-square&color=black&logo=github&logoColor=00ccff" height=26>
+<a href="https://github.com/hellterhead"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=flat-square&color=black&logo=github&logoColor=00ccff" height=26></a>
 </p>
