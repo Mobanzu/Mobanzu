@@ -39,6 +39,4 @@ ____
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite)](https://github.com/hellterhead)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
-<p align="center">
-<a href="https://github.com/hellterhead"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github"></a>
-</p>
+[![Visitors](https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github)](https://github.com/hellterhead)
