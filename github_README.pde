@@ -14,8 +14,8 @@ void setup() {
   strs[0][0] = "Hey there!";
   strs[0][1] = "My name is Andre Pradana.";
 
-  strs[1][0] = "I like everything about Japan!";
-  strs[1][1] = "Especially manga and anime.";
+  strs[1][0] = "Just call me Dre!";
+  strs[1][1] = "I like everything about Japan, especially manga and anime.";
 
   strs[2][0] = "Actually I like it because of design.";
   strs[2][1] = "I'm also an illustrator from Indonesian.";
