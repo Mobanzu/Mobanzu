@@ -86,7 +86,7 @@ void draw() {
         s++;
       }
     }
-    //print(i + " ");
-    //s++;
+    print(i + " ");
+    s++;
   }
 }
