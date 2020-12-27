@@ -37,13 +37,15 @@ const dre = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
-<p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
 
-[![Visitors](https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github)](https://github.com/hellterhead)
+<p align="center">
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
+</p>
+<p align="center">
+<a href="https://github.com/hellterhead"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github"></a>
+</p>
