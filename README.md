@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" alt="HELLTERHEAD Typewriter">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" alt="Mo-banzu Activity">
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif">
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif">
 </p>
 <p align="center">
 <a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=22></a>
