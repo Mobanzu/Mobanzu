@@ -43,7 +43,7 @@ const dre = {
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
 </p>
 
-[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite)](https://github.com/hellterhead)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
+[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
 
 [![Visitors](https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github)](https://github.com/hellterhead)
