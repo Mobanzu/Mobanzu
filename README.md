@@ -15,15 +15,7 @@
 </p>
 
 ### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Litle More About Me
-```javascript
-const dre = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "HTML", "CSS", "PHP"],
-    askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
-    currentFocus: "Developing LINE Messenger bot using Python and JavaScript",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-}
-```
+
 <details>
 <summary>Scattered Messy Pictures</summary><br>
   
@@ -36,6 +28,15 @@ const dre = {
 
 </details>
 
+```javascript
+const dre = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "HTML", "CSS", "PHP"],
+    askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
+    currentFocus: "Developing LINE Messenger bot using Python and JavaScript",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
 <p align="center">
