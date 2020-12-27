@@ -10,7 +10,10 @@
 <a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=22></a>
 </p>
 
-____
+<p align="center">
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
+</p>
+
 ### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Litle More About Me
 ```javascript
 const dre = {
@@ -35,7 +38,10 @@ const dre = {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
-____
+<p align="center">
+<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
+</p>
+
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite)](https://github.com/hellterhead)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite)](https://github.com/hellterhead)
 
