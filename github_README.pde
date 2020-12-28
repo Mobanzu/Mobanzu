@@ -11,7 +11,7 @@ void setup() {
   background(255);
   fill(0);
 
-  strs[0][0] = "Hey there!";
+  strs[0][0] = "Hi there!";
   strs[0][1] = "My name is Andre Pradana.";
 
   strs[1][0] = "Just call me Dre!";
