@@ -23,8 +23,8 @@ void setup() {
   strs[3][0] = "I'm interested in coding because it's amazing and like magic!";
   strs[3][1] = "Currently focus learn about Java, Python, JavaScript, PHP, HTML & CSS.";
 
-  strs[4][0] = "Feel free to reach out to say hi!";
-  strs[4][1] = "email: mbandu.ilik@gmail.com";
+  strs[5][0] = "Feel free to reach out to say hi!";
+  strs[5][1] = "email: mbandu.ilik@gmail.com";
 }
 
 int i = 0;
