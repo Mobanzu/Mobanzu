@@ -2,6 +2,7 @@
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" width=640>
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" width=640>
 </p>
+
 <p align="center">
 <a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
 <a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
