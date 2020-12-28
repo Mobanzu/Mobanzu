@@ -40,8 +40,8 @@ const dre = {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
-[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&title_color=00ccff&text_color=808080&icon_color=808080&bg_color=00000000)](https://github.com/hellterhead)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&title_color=00ccff&text_color=808080&bg_color=00000000)](https://github.com/hellterhead)
+[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000)](https://github.com/hellterhead)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000)](https://github.com/hellterhead)
 
 <p align="center">
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
