@@ -31,7 +31,7 @@
 ```javascript
 const dre = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "HTML", "CSS", "PHP"],
+    code: ["JavaScript", "Python", "Java", "HTML", "CSS", "PHP"],
     askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
     currentFocus: "Developing LINE Messenger bot using Python and JavaScript",
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -40,8 +40,8 @@ const dre = {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true)
 
-[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&theme=graywhite&hide_border=true)](https://github.com/hellterhead)
+[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&title_color=00ccff&icon_color=808080&bg_color=00000000)](https://github.com/hellterhead)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&title_color=00ccff&bg_color=00000000)](https://github.com/hellterhead)
 
 <p align="center">
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
