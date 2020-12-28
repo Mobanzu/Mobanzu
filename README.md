@@ -14,29 +14,7 @@
 <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif">
 </p>
 
-### <img src="https://github.com/hellterhead/hellterhead/blob/main/assets/astrocat.gif" width="50" alt="Astro Cat"> A Litle More About Me
 
-<details>
-<summary>Scattered Messy Pictures</summary><br>
-  
-<!-- mbnd_art starts -->
-* [Take a look](https://www.instagram.com/p/BuFV-eBgg91/?utm_source=ig_web_copy_link) my boring activity
-* I like [cats](https://www.instagram.com/p/B1dz-5rBwT0/?utm_source=ig_web_copy_link) and game consoles
-* I believe that [aliens](https://www.instagram.com/p/BwiX5bml51Q/?utm_source=ig_web_copy_link) are hiding watching us
-* And this is [something](https://www.instagram.com/p/Bs7thCVFt_W/?utm_source=ig_web_copy_link) that doesn't matter
-<!-- mbnd_art ends -->
-
-</details>
-
-```javascript
-const dre = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS", "PHP"],
-    askMeAbout: ["design", "web dev", "tech", "bot", "deep learning"],
-    currentFocus: "Developing LINE Messenger bot using Python and JavaScript",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-}
-```
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem" width=640></a>
