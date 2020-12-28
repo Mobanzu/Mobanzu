@@ -44,8 +44,6 @@ const dre = {
 
 <p align="center">
 <a href="https://github.com/hellterhead"><img src="https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000"></a>
-</p>
-<p align="center">
 <a href="https://github.com/hellterhead"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000"></a>
 </p>
 
