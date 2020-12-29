@@ -7,8 +7,19 @@
 <a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
 <a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
 <a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" height=24></a>
+<a href="https://pinterest.com/mobanzu"><img src="https://img.shields.io/badge/Pinterest-bd081c.svg?&style=for-the-badge&logo=pinterest&logoColor=ffffff" height=24></a>
+<a href="https://spotify.com/mo.banzu"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff" height=24></a>
 <a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff" height=24></a>
-<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Email-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=24></a>
+<a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=24></a>
+<a href="https://www.autodesk.com"><img src="https://img.shields.io/badge/Autodesk-0696d7.svg?&style=for-the-badge&logo=autodesk&logoColor=ffffff" height=24></a>
+<a href="https://www.adobe.com"><img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff" height=24></a>
+<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=000000" height=24></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=ffffff" height=24></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=ffffff" height=24></a>
+<a href="https://www.w3.org"><img src="https://img.shields.io/badge/HTML-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff" height=24></a>
+<a href="https://www.w3.org"><img src="https://img.shields.io/badge/CSS-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff" height=24></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777bb4.svg?&style=for-the-badge&logo=php&logoColor=ffffff" height=24></a>
+<a href="https://www.playstation.com"><img src="https://img.shields.io/badge/PlayStation-003791.svg?&style=for-the-badge&logo=playstation&logoColor=ffffff" height=24></a>
 </p>
 
 <p align="center">
