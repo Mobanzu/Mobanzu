@@ -23,7 +23,7 @@
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777bb4.svg?&style=for-the-badge&logo=php&logoColor=ffffff" height=24></a>
 <a href="https://www.playstation.com"><img src="https://img.shields.io/badge/PlayStation-003791.svg?&style=for-the-badge&logo=playstation&logoColor=ffffff" height=24></a>
 <a href="https://www.nintendo.com"><img src="https://img.shields.io/badge/Nintendo Switch-e60012.svg?&style=for-the-badge&logo=nintendo-switch&logoColor=ffffff" height=24></a>
-<a href="https://www.buymeacoffee.com"><img src="https://img.shields.io/badge/Buy Me A Coffee-ffdd00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height=24></a>
+<a href="https://www.buymeacoffee.com/dosiposi"><img src="https://img.shields.io/badge/Buy Me A Coffee-ffdd00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height=24></a>
 </p>
 
 <p align="center">
