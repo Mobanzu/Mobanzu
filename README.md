@@ -5,6 +5,7 @@
 
 <p align="center">
 <a href="https://line.me/ti/p/~luscious.net"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
+<a href="https://www.webtoons.com"><img src="https://img.shields.io/badge/LINE WEBTOON-00d564.svg?&style=for-the-badge&logo=line-webtoon&logoColor=ffffff" height=24></a>
 <a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
 <a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" height=24></a>
 <a href="https://pinterest.com/mobanzu"><img src="https://img.shields.io/badge/Pinterest-bd081c.svg?&style=for-the-badge&logo=pinterest&logoColor=ffffff" height=24></a>
