@@ -18,7 +18,6 @@
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=ffffff" height=24></a>
 <a href="https://html.com"><img src="https://img.shields.io/badge/HTML-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff" height=24></a>
 <a href="https://www.w3.org"><img src="https://img.shields.io/badge/CSS-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff" height=24></a>
-<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777bb4.svg?&style=for-the-badge&logo=php&logoColor=ffffff" height=24></a>
 <a href="https://www.buymeacoffee.com/dosiposi"><img src="https://img.shields.io/badge/Buy Me A Coffee-ffdd00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height=24></a>
 </p>
 
