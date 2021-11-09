@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/typewriter.gif" width=640>
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/typewriter.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/activity.gif" width=640>
 </p>
 
 <p align="center">
@@ -22,18 +22,18 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
-<a href="https://github.com/hellterhead"><img src="https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
-<a href="https://github.com/hellterhead"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api?username=Mobanzu&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobanzu&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
 </p>
 
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
-<a href="https://github.com/hellterhead"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github"></a>
+<a href="https://github.com/Mobanzu"><img src="https://badges.pufler.dev/visits/Mobanzu/Mobanzu?style=social&logo=github"></a>
 </p>
