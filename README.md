@@ -28,6 +28,7 @@
 <p align="center">
 <a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api?username=Mobanzu&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
 <a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobanzu&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mobanzu"><img src="https://streak-stats.demolab.com?user=Mobanzu&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=CCCCCC&ring=00CCFF&fire=00CCFF&currStreakNum=000000&sideNums=555555&currStreakLabel=000000&sideLabels=00CCFF&dates=AAAAAA"></a>
 </p>
 
 <p align="center">
