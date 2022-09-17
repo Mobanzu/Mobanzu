@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Mobanzu"><img src="https://badges.pufler.dev/visits/Mobanzu/Mobanzu?style=social&logo=github"></a>
+<a href="https://github.com/Mobanzu"><img src="https://komarev.com/ghpvc/?username=Mobanzu&label=VISITOR&color=00CCFF&style=flat"></a>
 </p>
