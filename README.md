@@ -12,7 +12,6 @@
 <a href="https://spotify.com/mo.banzu"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff" height=24></a>
 <a href="https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff" height=24></a>
 <a href="mailto:mbandu.ilik@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=24></a>
-<a href="https://www.autodesk.com"><img src="https://img.shields.io/badge/Autodesk-0696d7.svg?&style=for-the-badge&logo=autodesk&logoColor=ffffff" height=24></a>
 <a href="https://www.adobe.com"><img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff" height=24></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=000000" height=24></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=ffffff" height=24></a>
